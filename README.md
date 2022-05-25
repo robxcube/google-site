@@ -1,2 +1,2 @@
 # google-site
- A simple replic of google site
+ A simple replica of google site
